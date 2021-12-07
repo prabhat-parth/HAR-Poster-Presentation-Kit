@@ -16,7 +16,7 @@ recognizing the heterogeneity type activities. The activities recognition perfor
 was measured using a publically available KU-HAR dataset. We achieved an F1-score of 98.03%, 98.22%,
 and 97.96% for CNNs, RNNs, and LSTM, respectively.</br>
 
-**Designed and developed by:**</br>
+**Designed and Developed by:**</br>
 Prabhat Kumar and S Suresh</br>
 Department of Computer Science, Institute of Science,</br>
 Banaras Hindu University, Varanasi – 221 005, India.</br>
