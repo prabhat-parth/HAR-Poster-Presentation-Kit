@@ -1,7 +1,10 @@
 **HAR Poster Presentation Kit**</br>
 The contents in the Kit are mentioned as follows:</br>
+1. Documentation for HAR Poster Presentation (PDF - File)</br>
+2. HAR_Poster (JPEG - File)</br>
+3. Python code for HAR uisng deep learning models (Python Code)</br>
 
-
+**Abstract**
 The deep learning models have been widely accepted for recognizing human activities in recent
 decades. These models have significantly beaten the classical machine learning techniques in terms of their
 strong feature extraction capabilities. This is often an expensive and time-consuming process to retrain the
