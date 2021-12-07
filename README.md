@@ -4,7 +4,7 @@ The contents in the Kit are mentioned as follows:</br>
 2. HAR_Poster (JPEG - File)</br>
 3. Python code for HAR uisng deep learning models (Python Code)</br>
 
-**Abstract**
+**Abstract:**
 The deep learning models have been widely accepted for recognizing human activities in recent
 decades. These models have significantly beaten the classical machine learning techniques in terms of their
 strong feature extraction capabilities. This is often an expensive and time-consuming process to retrain the
@@ -14,4 +14,13 @@ simple but also complex and heterogeneity type. We have deep learning models i.e
 Networks (CNNs), Recurrent Neural Networks (RNNs), and Long short-term memory (LSTM) for
 recognizing the heterogeneity type activities. The activities recognition performance of the purposed model
 was measured using a publically available KU-HAR dataset. We achieved an F1-score of 98.03%, 98.22%,
-and 97.96% for CNNs, RNNs, and LSTM, respectively.
+and 97.96% for CNNs, RNNs, and LSTM, respectively.</br>
+
+**Designed and developed by:**</br>
+Prabhat Kumar and S Suresh</br>
+Department of Computer Science, Institute of Science,</br>
+Banaras Hindu University, Varanasi – 221 005, India.</br>
+Email: prabhat.kumar13@bhu.ac.in</br>
+
+**HAR Poster Presentation Kit May Be Subject to Copyright.**
+
